@@ -7,3 +7,7 @@ Solução em Java 17 cobrindo os requisitos 1 a 3.12 (Pessoa, Funcionário, form
 
 ## Como executar
 No PowerShell, dentro da pasta do projeto:
+
+---
+Desenvolvido por **Kaio Marcellus Trindade da Cruz**  
+
